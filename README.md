@@ -119,7 +119,7 @@ class AniketKhandare:
 > Computer Vision system to identify celestial objects using Deep Learning.
 
 ![Space](https://img.shields.io/badge/Space%20Tech-CV-6e40c9?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
 
 - Deep learning for astronomical images
 - Object classification & detection
