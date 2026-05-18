@@ -100,7 +100,7 @@ class AniketKhandare:
 </td>
 <td width="50%">
 
-### 🧠 AI Image Detection System
+### 🧠 [AI Image Detection System](https://github.com/Aniket-k-13/PS7-AI-Image-Detection)
 > Hackathon project — AI-generated image detection using Deep Learning.
 
 ![CV](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-6e40c9?style=flat-square)
