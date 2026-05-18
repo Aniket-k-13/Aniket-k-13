@@ -136,9 +136,7 @@ class AniketKhandare:
 
 - Histopathological image analysis for cancer detection
 - Hybrid EfficientNet + Vision Transformer architecture
-- Classification of Lung and Colon Cancer images
 - Deep learning–based medical image diagnosis
-- Real-world healthcare AI application
 
 </td>
 </tr>
