@@ -128,15 +128,17 @@ class AniketKhandare:
 </td>
 <td width="50%">
 
-### 🏥 Fake Job Detection System
-> NLP-based ML system to detect fraudulent job postings.
+### 🩺 [Lung & Colon Cancer Detection Using Deep Learning](https://github.com/Aniket-k-13/lung-colon-cancer-detection-using-deep-learning)
+> AI-powered histopathology cancer detection using a hybrid EfficientNet + Vision Transformer (ViT) model.
 
-![NLP](https://img.shields.io/badge/NLP-Text%20Classification-6e40c9?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN%20%2B%20ViT-6e40c9?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
 
-- Text feature extraction & analysis
-- Binary classification using ML
-- Real-world fraud detection use case
+- Histopathological image analysis for cancer detection
+- Hybrid EfficientNet + Vision Transformer architecture
+- Classification of Lung and Colon Cancer images
+- Deep learning–based medical image diagnosis
+- Real-world healthcare AI application
 
 </td>
 </tr>
