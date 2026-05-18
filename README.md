@@ -115,7 +115,7 @@ class AniketKhandare:
 <tr>
 <td width="50%">
 
-### 🌌 Celestial Object Detection
+### 🌌 [Celestial Object Detection](https://github.com/Aniket-k-13/celestial-object-detection)
 > Computer Vision system to identify celestial objects using Deep Learning.
 
 ![Space](https://img.shields.io/badge/Space%20Tech-CV-6e40c9?style=flat-square)
