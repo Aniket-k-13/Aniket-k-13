@@ -87,7 +87,7 @@ class AniketKhandare:
 <tr>
 <td width="50%">
 
-### 🤖 [16-Weeks ML Challenge](https://github.com/Aniket-k-13/16-Weeks-ML-Challenge)
+### 🤖 [Machine-Learning-Project-Series](https://github.com/Aniket-k-13/16-Weeks-ML-Challenge)
 > A continuously growing collection of ML projects built while learning practically.
 
 ![ML](https://img.shields.io/badge/Machine%20Learning-Series-6e40c9?style=flat-square)
