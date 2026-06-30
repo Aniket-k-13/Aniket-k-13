@@ -91,7 +91,7 @@ class AniketKhandare:
 > A continuously growing collection of ML projects built while learning practically.
 
 ![ML](https://img.shields.io/badge/Machine%20Learning-Series-6e40c9?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
 
 - Covers supervised, unsupervised & deep learning
 - Each week = a new real-world project
