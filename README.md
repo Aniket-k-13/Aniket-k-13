@@ -84,12 +84,12 @@ class AniketKhandare:
 
 <div align="center">
 <table>
+
 <tr>
 <td width="50%">
 
-
 ### 🤖 [AutoML Studio](https://github.com/Aniket-k-13/AutoML-Studio)
-> No-code end-to-end AutoML platform for training, evaluating, and deploying machine learning models. :contentReference[oaicite:0]{index=0}
+> No-code end-to-end AutoML platform for training, evaluating, and deploying machine learning models.
 
 ![AutoML](https://img.shields.io/badge/Machine%20Learning-AutoML-6e40c9?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
@@ -101,8 +101,7 @@ class AniketKhandare:
 - Kaggle GPU integration for deep learning workloads
 
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 
 ### 🤖 [Machine-Learning-Project-Series](https://github.com/Aniket-k-13/16-Weeks-ML-Challenge)
@@ -116,6 +115,9 @@ class AniketKhandare:
 - Hands-on approach to mastering ML
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🧠 [AI Image Detection System](https://github.com/Aniket-k-13/PS7-AI-Image-Detection)
@@ -129,8 +131,7 @@ class AniketKhandare:
 - Built under hackathon conditions
 
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 
 ### 🌌 [Celestial Object Detection](https://github.com/Aniket-k-13/celestial-object-detection)
@@ -144,6 +145,9 @@ class AniketKhandare:
 - Combining AI with space science
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🩺 [Lung & Colon Cancer Detection Using Deep Learning](https://github.com/Aniket-k-13/lung-colon-cancer-detection-using-deep-learning)
@@ -157,9 +161,16 @@ class AniketKhandare:
 - Deep learning–based medical image diagnosis
 
 </td>
+
+<td width="50%">
+<!-- Add another future project here -->
+</td>
+
 </tr>
 </table>
 </div>
+
+---
 
 ---
 
