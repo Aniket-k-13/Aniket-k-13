@@ -100,8 +100,6 @@ class AniketKhandare:
 - One-click deployment with live prediction API
 - Kaggle GPU integration for deep learning workloads
 
-</td>
-</tr>
 <tr>
 <td width="50%">
 
