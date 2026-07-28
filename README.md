@@ -100,9 +100,6 @@ class AniketKhandare:
 - One-click deployment with live prediction API
 - Kaggle GPU integration for deep learning workloads
 
-<tr>
-<td width="50%">
-
 
 ### 🤖 [Machine-Learning-Project-Series](https://github.com/Aniket-k-13/16-Weeks-ML-Challenge)
 > A continuously growing collection of ML projects built while learning practically.
