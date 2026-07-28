@@ -87,6 +87,25 @@ class AniketKhandare:
 <tr>
 <td width="50%">
 
+
+### 🤖 [AutoML Studio](https://github.com/Aniket-k-13/AutoML-Studio)
+> No-code end-to-end AutoML platform for training, evaluating, and deploying machine learning models. :contentReference[oaicite:0]{index=0}
+
+![AutoML](https://img.shields.io/badge/Machine%20Learning-AutoML-6e40c9?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square)
+
+- No-code ML workflow from dataset upload to REST API deployment
+- Supports Tabular, NLP, Computer Vision, Time-Series & Clustering
+- Automated preprocessing, model training & evaluation
+- One-click deployment with live prediction API
+- Kaggle GPU integration for deep learning workloads
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+
 ### 🤖 [Machine-Learning-Project-Series](https://github.com/Aniket-k-13/16-Weeks-ML-Challenge)
 > A continuously growing collection of ML projects built while learning practically.
 
