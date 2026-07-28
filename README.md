@@ -86,7 +86,7 @@ class AniketKhandare:
 <table>
 
 <tr>
-<td width="50%">
+<td colspan="2">
 
 ### 🤖 [AutoML Studio](https://github.com/Aniket-k-13/AutoML-Studio)
 > No-code end-to-end AutoML platform for training, evaluating, and deploying machine learning models.
@@ -101,8 +101,7 @@ class AniketKhandare:
 - Kaggle GPU integration for deep learning workloads
 
 </td>
-
-<td width="50%">
+</tr>
 
 ### 🤖 [Machine-Learning-Project-Series](https://github.com/Aniket-k-13/16-Weeks-ML-Challenge)
 > A continuously growing collection of ML projects built while learning practically.
